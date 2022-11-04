@@ -71,8 +71,8 @@
                     <div class="container">
                         <a class="d-flex align-items-center mb-md-0 me-md-auto text-dark text-decoration-none" href="">
                             <img src="assets/img/logo1.png" width="40" height="40" class="d-inline-block pull-left ms-2 me-2" alt="">
-                            <span class="fs-5 fw-bolder">PMB |</span>
-                            <span class="fs-5 fw-bolder d-none d-lg-block"> Universitas Muhammadiyah Purworejo</span>
+                            <span class="fs-5 fw-bolder">PMB</span>&nbsp;
+                            <span class="fs-5 fw-bolder d-none d-lg-block">| Universitas Muhammadiyah Purworejo</span>
                         </a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
@@ -122,7 +122,29 @@
                     <h3 class="fw-bold">Jalur Reguler</h3>
                     <span>Pendaftaran Mahasiswa Baru Tahun Ajaran 2023/2024</span>
                 </div><hr class="mb-5">
-               
+               <div class="row justify-content-md-center">
+                <div class="col col-md-8">
+                    <div class="text-center mb-4">
+                        <h4 class="fw-bold ">Periode Pendaftaran</h4>
+                    </div>
+                    <table class="table table-striped">
+                        <tbody>
+                            <tr>
+                            <th class="ps-5">Gelombang I</th>
+                            <td class="ps-5">03 November 2022 - Mei 2023</td>
+                            </tr>
+                            <tr>
+                            <th class="ps-5">Gelombang II</th>
+                            <td class="ps-5">Jacob</td>
+                            </tr>
+                            <tr>
+                            <th class="ps-5">Gelombang III</th>
+                            <td class="ps-5">Larry the Bird</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+               </div>
             </div>
         </div>
     </section>
